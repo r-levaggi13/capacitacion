@@ -1,0 +1,2 @@
+# capacitacion
+registro de capacitacion
